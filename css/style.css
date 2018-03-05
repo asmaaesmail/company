@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+body,html{
+				height: 1600px;
+                width: 100%
+			}
+        body 
+            {
+               height: 1600px;
+				background-color: #f4f0ef;
+				margin: 0;
+				padding: 0
+    /*************   */     }
+
+
+
+
+/* loader */
+.over 
+{
+    background:#222;
+    color:#FFF;
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    z-index:90;
+	padding-top:30%;
+}/******************************/
+        div.cont{
+				
+				height: 100%;
+				width: 98%;
+				padding: 1%;
+				padding-top: 1.8%;
+				background-color: #f4f0ef;
+                margin: auto
+			}
+        header{
+				
+				height: 10%;
+				background-color: #6e6e6e;
+				border-radius: 5px 5px 0 0;
+			}
+			header h2{
+				
+				color: #fffffd;
+				margin:6%;
+				margin-top: 11%;
+				font-size: 25px;
+			}
+			header h3{
+				
+				margin-top: 26%;
+				color: #d8d7d6;
+				font-size: 21px;
+			}
+        /******************************nav****************************/
+        .nav{
+				background-color: #33b1b0;
+				margin-top: -16px;
+				height:5.5%;
+                
+                
+			}
+        .nav-link {
+            color: #fef3df;
+            margin-left: 3%;
+            margin-top: .5%
+        }
+        .nav-link:hover{
+            color: #063e3d
+        }
+           
+      /************imge****************/
+
+        div div.image{
+
+            background-color:#fff;
+            text-align: center;
+            padding-top: 3%
+        } 
+        
+   
+        /*****************************************/
+
+        #con{
+				height: 37%;
+				background-color: #ffffff;
+				padding-top:.5in;
+				padding-left:.6in;
+				padding-right:.6in
+			}
+		
+			
+			#con p{
+				color: #5a5e5d
+			}
+			
+			/********footer*************/
+			footer{
+				text-align: center;
+				color:#a7a8ad;
+				padding-top: 3%
+			}
+			footer a{color:#a7a8ad;}
+            .partIMG img{
+                float: right;
+                display: inline-block
+            }
+            .partIMG img{
+                float: left;
+                display: inline-block
+                        }
+          /**************contanier*********************/
+         .pimg{
+                  color: #5a5e5d;
+                  font-size: 13px 
+                }   
